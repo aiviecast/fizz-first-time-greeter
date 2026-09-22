@@ -10,7 +10,7 @@
 
 ```toml
 [dependencies]
-fizz_first_time_greeter = { git = "https://github.com/Aid-On/fizz-first-time-greeter", tag = "v0.1.0" }
+fizz_first_time_greeter = { git = "https://github.com/aiviecast/fizz-first-time-greeter", tag = "v0.1.0" }
 ```
 
 ## Tests
